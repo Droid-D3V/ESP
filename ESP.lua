@@ -1,5 +1,5 @@
 -- Written by Kiriot22
--- Modifications made by wally
+-- Modifications made by wally and droid
 
 -- Settings
 local ESP = {
@@ -17,7 +17,7 @@ local ESP = {
 	TeamColor = true,
 	TeamMates = true,
 
-	Font = 'UI',
+	Font = 'GothamBlack',
 	TextSize = 19,
 
 	BoxShift = CFrame.new(0, -1.5, 0),
