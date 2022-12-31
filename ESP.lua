@@ -18,9 +18,9 @@ local ESP = {
 	TeamMates = true,
 
 	Font = 'GothamBlack',
-	TextSize = 19,
+	TextSize = 21,
 
-	BoxShift = CFrame.new(0, -1.5, 0),
+	BoxShift = CFrame.new(0, 0, 0),
 	BoxSize = Vector3.new(4, 6, 0),
 	Color = Color3.fromRGB(255, 170, 0),
 
